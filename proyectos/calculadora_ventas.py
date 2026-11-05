@@ -1,4 +1,4 @@
-Precio Base
+#Precio Base
 precio = 250
 #Valida la cantidad ingresada
 while True:
