@@ -3,7 +3,7 @@ total = 0
 while True: 
     try:
         gasto = int(input("Ingrese el importe del gasto: "))
-        if gasto < 0:
+        if gasto < 0: 
            print("Ingrese valor valido")     
         
         elif gasto == 0:
